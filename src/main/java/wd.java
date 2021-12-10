@@ -1,2 +1,2 @@
-public class wd {
+public class sdsdwd {
 }
