@@ -1,2 +1,2 @@
-public class App {
+public class Adp {
 }
